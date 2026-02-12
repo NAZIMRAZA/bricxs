@@ -37,7 +37,7 @@ const Ticker = () => (
       transition={{ duration: 30, repeat: Infinity, ease: "linear" }}
       className="inline-block text-sm orbitron uppercase tracking-[0.3em]"
     >
-      $BRXS LIVE: SYSTEM UPGRADE IN PROGRESS // MULTIPOLAR WORLD NARRATIVE DETECTED // GOLD &gt; FIAT // EAST &gt; WEST // DECENTRALIZE EVERYTHING // NO CENTRAL BANK INTERFERENCE // ⚡ SOLANA NETWORK ACTIVE ⚡ // $BRXS LIVE: SYSTEM UPGRADE IN PROGRESS //
+      {"$BRXS LIVE: SYSTEM UPGRADE IN PROGRESS // MULTIPOLAR WORLD NARRATIVE DETECTED // GOLD > FIAT // EAST > WEST // DECENTRALIZE EVERYTHING // NO CENTRAL BANK INTERFERENCE // ⚡ SOLANA NETWORK ACTIVE ⚡ // $BRXS LIVE: SYSTEM UPGRADE IN PROGRESS //"}
     </motion.div>
   </div>
 );
@@ -114,9 +114,9 @@ const Hero = () => {
 
         <div className="flex flex-col md:flex-row items-center justify-center gap-6 mb-16">
           <div className="flex flex-wrap justify-center gap-8 text-lg md:text-2xl font-bold uppercase italic mono text-[#FF003C]">
-            <span className="px-4 border-l-2 border-[#FF003C]">East &gt; West</span>
-            <span className="px-4 border-l-2 border-[#FF003C] text-yellow-400">Gold &gt; Fiat</span>
-            <span className="px-4 border-l-2 border-[#FF003C] text-[#A020F0]">BRICS &gt; Dollar</span>
+            <span className="px-4 border-l-2 border-[#FF003C]">{"East > West"}</span>
+            <span className="px-4 border-l-2 border-[#FF003C] text-yellow-400">{"Gold > Fiat"}</span>
+            <span className="px-4 border-l-2 border-[#FF003C] text-[#A020F0]">{"BRICS > Dollar"}</span>
           </div>
         </div>
 
