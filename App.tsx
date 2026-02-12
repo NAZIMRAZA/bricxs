@@ -37,7 +37,7 @@ const Ticker = () => (
       transition={{ duration: 30, repeat: Infinity, ease: "linear" }}
       className="inline-block text-sm orbitron uppercase tracking-[0.3em]"
     >
-      $BRXS LIVE: SYSTEM UPGRADE IN PROGRESS // MULTIPOLAR WORLD NARRATIVE DETECTED // GOLD > FIAT // EAST > WEST // DECENTRALIZE EVERYTHING // NO CENTRAL BANK INTERFERENCE // ⚡ SOLANA NETWORK ACTIVE ⚡ // $BRXS LIVE: SYSTEM UPGRADE IN PROGRESS //
+      $BRXS LIVE: SYSTEM UPGRADE IN PROGRESS // MULTIPOLAR WORLD NARRATIVE DETECTED // GOLD &gt; FIAT // EAST &gt; WEST // DECENTRALIZE EVERYTHING // NO CENTRAL BANK INTERFERENCE // ⚡ SOLANA NETWORK ACTIVE ⚡ // $BRXS LIVE: SYSTEM UPGRADE IN PROGRESS //
     </motion.div>
   </div>
 );
